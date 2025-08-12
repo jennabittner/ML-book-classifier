@@ -13,13 +13,18 @@ It includes comprehensive data preprocessing, feature extraction with TF-IDF, se
 
 ## Dataset
 
-The dataset consists of Goodreads book reviews and associated genre labels, including genres such as fantasy, romance, mystery, and more.
+The dataset used is publicly available from [Goodreads Data from Mengting Wan]([https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html)).  
+
+**Specifically, this project uses these two files:**  
+- `goodreads_reviews_dedup.json.gz`  
+- `goodreads_book_genres_initial.json.gz`  
+
+These files are used for review texts and genre labels, respectively.
 
 ## Explore Results
 
-View the complete analysis and interactive visualizations on Kaggle:  
-📄 **Notebook:** [View on Kaggle](https://www.kaggle.com/YOUR_NOTEBOOK_LINK)  
-📂 **Dataset:** [Download dataset](https://drive.google.com/YOUR_DATASET_LINK)  
+You can view a **static HTML version of the notebook** here (note: this is not executable):  
+📄 [Notebook (HTML)](file:///C:/Users/jenna/Downloads/BigData_Final_Code%20(1).html) 
 
 ---
 
