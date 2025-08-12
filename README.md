@@ -13,7 +13,7 @@ It includes comprehensive data preprocessing, feature extraction with TF-IDF, se
 
 ## Dataset
 
-The dataset used is publicly available from [Goodreads Data from Mengting Wan]([https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html)).  
+The dataset used is publicly available from [Goodreads Data from Mengting Wan](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html).  
 
 **Specifically, this project uses these two files:**  
 - `goodreads_reviews_dedup.json.gz`  
