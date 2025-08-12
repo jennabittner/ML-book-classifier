@@ -21,11 +21,6 @@ The dataset used is publicly available from [Goodreads Data from Mengting Wan](h
 
 These files are used for review texts and genre labels, respectively.
 
-## Explore Results
-
-You can view a **static HTML version of the notebook** here (note: this is not executable):  
-📄 [Notebook (HTML)](file:///C:/Users/jenna/Downloads/BigData_Final_Code%20(1).html) 
-
 ---
 
 ## Summary of Results
