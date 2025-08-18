@@ -43,9 +43,6 @@ The full Jupyter notebook for this project is available on [Kaggle](https://www.
 
 ## Author
 
-**Jenna Bittner**  
-- Astrophysics graduate and data science enthusiast  
-- [Optional: Link to personal website, portfolio, or LinkedIn]
-
+This project was developed by **Jenna Bittner**, B.S. in Astrophysics from The Ohio State University.
 
 
