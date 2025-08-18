@@ -21,7 +21,11 @@ The dataset used is publicly available from [Goodreads Data from Mengting Wan](h
 
 These files are used for review texts and genre labels, respectively.
 
----
+## Code & Notebook
+
+The full Jupyter notebook for this project is available on [Kaggle](https://www.kaggle.com/code/jennabittner/ml-book-classifier/edit).  
+
+> Note: The notebook was too large to host directly on GitHub, so the Kaggle link provides access to the complete code, outputs, and interactive exploration.
 
 ## Summary of Results
 
@@ -36,5 +40,12 @@ These files are used for review texts and genre labels, respectively.
 - Initially, a CNN was tested but the Random Forest classifier outperformed it, likely due to the text-based nature of the data and the effectiveness of Random Forest in handling complex feature relationships.
 
 - Future improvements could include more advanced models like BERT for semantic understanding, multilabel classification to handle books spanning multiple genres, and more extensive parameter optimization and data balancing techniques.
+
+## Author
+
+**Jenna Bittner**  
+- Astrophysics graduate and data science enthusiast  
+- [Optional: Link to personal website, portfolio, or LinkedIn]
+
 
 
